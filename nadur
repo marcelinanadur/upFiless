@@ -1,0 +1,7 @@
+~ git init
+~ git add
+~ git commit -m “namabebas”
+~ git status
+~ git remote add origin diikuti url repo github 
+git remote add origin https://github.com/marcelinanadur/html-list.git
+git push -u origin master
